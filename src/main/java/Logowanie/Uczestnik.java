@@ -22,6 +22,8 @@ public class Uczestnik {
 
     @Column
     private Boolean czyBędzie;
+    private Boolean czyBędzie2;
+
 
     public Long getId() {
         return id;
